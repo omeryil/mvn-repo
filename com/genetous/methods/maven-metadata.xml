@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.genetous</groupId>
-  <artifactId>extras</artifactId>
+  <artifactId>methods</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230110090234</lastUpdated>
+    <lastUpdated>20230110090534</lastUpdated>
   </versioning>
 </metadata>
